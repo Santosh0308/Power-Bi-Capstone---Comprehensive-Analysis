@@ -1,4 +1,4 @@
-Project Overview This Power BI Capstone Project offers an in-depth analysis of ShopNest Store's operations from three critical perspectives: Order Level, Product Level, and Customer Level. Leveraging Power BI's advanced features like drill-through, cross-reporting, and dynamic visuals, the project uncovers actionable insights to enhance business performance.
+Project Overview This Power BI Capstone Project offers an in-depth analysis of operations from three critical perspectives: Order Level, Product Level, and Customer Level. Leveraging Power BI's advanced features like drill-through, cross-reporting, and dynamic visuals, the project uncovers actionable insights to enhance business performance.
 
 Key Highlights
 
